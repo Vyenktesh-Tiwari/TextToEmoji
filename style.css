@@ -14,10 +14,10 @@ body {
 #main{
     min-height: 100%;
     width: 100%;
-    background-image: url(img.AVIF);
+/*     background-image: url(img.AVIF);
     background-repeat: no-repeat;
-    background-size: cover;
-    /* background-color: #111; */
+    background-size: cover; */
+    background-color: #111;
     padding: 100px 0;
     display:flex;
     align-items: center;
